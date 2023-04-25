@@ -16,8 +16,8 @@
 温蒂向前走着，每走一步，他的步伐就越坚毅，一个渺小的影子，消失在了遗迹之中……
 
 <h2 align="center"> 角色概念图 </h2>
-<img src = https://user-images.githubusercontent.com/85438203/234216665-20d2a07c-10f7-47a0-87e7-7a248e29488e.png/>
-<img src = https://user-images.githubusercontent.com/85438203/234216674-9151b50f-0e71-47ac-b616-ce71afbc8cb3.png/>
+<img src = https://user-images.githubusercontent.com/85438203/234216665-20d2a07c-10f7-47a0-87e7-7a248e29488e.png />
+<img src = https://user-images.githubusercontent.com/85438203/234216674-9151b50f-0e71-47ac-b616-ce71afbc8cb3.png />
 
 <h2 align="center"> 游戏操作方式 </h2>
-<img src = https://user-images.githubusercontent.com/85438203/234216831-9aaeecf7-cc40-4770-b48e-c9c1ed1b040f.png/>
+<img src = https://user-images.githubusercontent.com/85438203/234216831-9aaeecf7-cc40-4770-b48e-c9c1ed1b040f.png />
