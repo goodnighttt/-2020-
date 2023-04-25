@@ -1,6 +1,6 @@
 # 史莱姆岛物语：2020级江南大学数字媒体技术专业游戏设计大作业
 ### 🔴 🔴 🔴  成员：张景润23605377220@qq.com 陈嘉欣：2277130231@qq.com  🔴 🔴 🔴
-<div align = "centre">![image](https://user-images.githubusercontent.com/85438203/234214571-5cb218eb-c781-405c-a3d1-28843838c5ad.png)</div>
+<div align = "center">![image](https://user-images.githubusercontent.com/85438203/234214571-5cb218eb-c781-405c-a3d1-28843838c5ad.png)</div>
 
 <h2 align="center"> 情节简介 </h2>
 这是一座无人的海岛，你作为农夫女孩温蒂，在一次灾难中，被送上了小船漂流到了此处。这里有着人类残存的遗迹、奇怪的植物以及潜藏的奇异动物。他们伺机而动，想要在暗处猎杀你，而你的目标只有一个：活下去，回到曾经的世界。
