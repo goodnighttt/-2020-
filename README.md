@@ -14,3 +14,10 @@
 疼痛的头颅，又一些记忆闪过：美好的家庭、火光冲天、逃命……无论如何，那个现实中的家，那个他心中的故乡，一时半会是回不去了，现在要做的，首先只有活下去。
 
 温蒂向前走着，每走一步，他的步伐就越坚毅，一个渺小的影子，消失在了遗迹之中……
+
+<h2 align="center"> 角色概念图 </h2>
+![image](https://user-images.githubusercontent.com/85438203/234216665-20d2a07c-10f7-47a0-87e7-7a248e29488e.png)
+![image](https://user-images.githubusercontent.com/85438203/234216674-9151b50f-0e71-47ac-b616-ce71afbc8cb3.png)
+
+<h2 align="center"> 游戏操作方式 </h2>
+![image](https://user-images.githubusercontent.com/85438203/234216831-9aaeecf7-cc40-4770-b48e-c9c1ed1b040f.png)
