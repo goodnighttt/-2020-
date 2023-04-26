@@ -5,8 +5,7 @@
 </div>
 
 <h2 align="center"> 视频演示 </h2>
-[https://user-images.githubusercontent.com/85438203/234639744-78af8f10-c016-474a-93d4-48ad741858b0.mp4](https://user-images.githubusercontent.com/85438203/234640704-6880a145-a3d9-43a1-91cc-c84802aabed4.mp4)
-
+https://user-images.githubusercontent.com/85438203/234640704-6880a145-a3d9-43a1-91cc-c84802aabed4.mp4
 
 <h2 align="center"> 情节简介 </h2>
 这是一座无人的海岛，你作为农夫女孩温蒂，在一次灾难中，被送上了小船漂流到了此处。这里有着人类残存的遗迹、奇怪的植物以及潜藏的奇异动物。他们伺机而动，想要在暗处猎杀你，而你的目标只有一个：活下去，回到曾经的世界。
